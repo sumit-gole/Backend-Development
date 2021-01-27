@@ -6,9 +6,9 @@ class DBClass {
 
     private $username = "root";
 
-    private $password = "<YOUR_DB_PASSWORD>";
+    private $password = "sumit";
 
-    private $database = "<YOUR_DB_NAME>";
+    private $database = "dbclass";
 
     public $connection;
 
